@@ -73,7 +73,7 @@ local highlights = {
 		String = {fg = C.nord14, },
 		Structure = {fg = C.nord13, },
 		Tag = {fg = C.nord4, },
-		Todo = {fg = C.nord13, },
+		Todo = {fg = C.purple_2, },
 		Type = {fg = C.nord9, },
 		Typedef = {fg = C.nord9, },
 		Macro = {fg = C.nord9, },
